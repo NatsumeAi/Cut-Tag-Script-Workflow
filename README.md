@@ -19,4 +19,9 @@ conda env create -f environment.yml
 conda activate CutTag
 ```
 ## 2. 运行
+```bash
+Example：
 ./CutTag.sh -a WT_2_1.fq.gz -b WT_2_2.fq.gz -d WT_IgG_2_1.fq.gz -e WT_IgG_2_2.fq.gz -n WT2vsIgG2 -f SWO-M.genome.fa -g SWO-M_251011.gff3 -s SpikeIn.fa
+Help:
+./CutTag.sh -h
+```
