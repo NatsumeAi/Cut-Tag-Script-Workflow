@@ -1,4 +1,4 @@
-# 全自动 Cut&Tag 分析流程 (My-CutTag-Pipeline)
+# 自动 Cut&Tag 分析流程
 
 这是一个基于 `bash` 脚本的全自动 Cut&Tag 分析流程。它整合了从 FASTQ 质控、Spike-in 归一化、基因组比对、Peak Calling 到 Motif 分析的完整步骤。
 
