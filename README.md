@@ -9,7 +9,7 @@
 
 ```bash
 # 1. 克隆本项目 (或下载 .yml 文件)
-# git clone [https://github.com/YourUsername/My-CutTag-Pipeline.git](https://github.com/YourUsername/My-CutTag-Pipeline.git)
+# git clone https://github.com/NatsumeAi/Cut-Tag-Script-Workflow.git
 # cd My-CutTag-Pipeline
 
 # 2. 使用 environment.yml 文件创建环境
