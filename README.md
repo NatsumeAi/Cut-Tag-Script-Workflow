@@ -18,6 +18,7 @@ conda activate CutTag
 ```bash
 # Example：
 ./CutTag.sh -a WT_2_1.fq.gz -b WT_2_2.fq.gz -d WT_IgG_2_1.fq.gz -e WT_IgG_2_2.fq.gz -n WT2vsIgG2 -f SWO-M.genome.fa -g SWO-M_251011.gff3 -s SpikeIn.fa
+#-a: T_R1, -b: T_R2, -d: C_R1; -e: C_R2; -n: output_name; -f: reference_file; -g: gff3_genome_anno; -s: spikein_fasta;
 # Help:
 ./CutTag.sh -h
 ```
